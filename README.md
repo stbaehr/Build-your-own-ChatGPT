@@ -1,8 +1,6 @@
 # 🌌CSU Azure Airlift 2024📎
 
-Welcome to your **SAP with Microsoft hands-on lab** experience! This repo gets you all setup to embark on your assigned epic quest. Excited yet? This is the line up including the lectures taking place on the 8th of February 2024:
-
-![Epic Quests](./img/agenda.png)
+Welcome to your **SAP with Microsoft hands-on lab** experience! This repo gets you all setup to embark on your assigned epic quest. Excited yet? This is the line up including the lectures taking place on the 25th of April 2024:
 
 Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 
@@ -10,8 +8,7 @@ Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 
 | Lab             | Dungeon entry  | Description |
 | ---------------- | -------- | -------- |
-|
-| Build your own **ChatGPT** | 👉[🧙](./3-build-your-own-chatgpt/README.md) | Learn how to build your own chatbot with GPT-4 and Chat with your SAP system. |
+| Build your own **ChatGPT** | 👉[🧙](./3-build-your-own-chatgpt/README.md) | Learn how to build your own chatbot with GPT-4 and Chat with your SAP system. 
 
 
 
