@@ -13,7 +13,7 @@ Find us on-site in Munich. We are looking forward to meeting you in person! 🤝
 | [Stephan Bähr](https://www.linkedin.com/in/stephan-b%C3%A4hr-53b9a8116/)    | Microsoft |
 
 
-# Build your own ChatGPT and chat with SAP dats
+# Build your own ChatGPT and chat with SAP data
 
 **[🏠Home](../README.md)** - [ Quest 1 >](student/quest1.md)
 
