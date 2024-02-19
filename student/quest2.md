@@ -72,9 +72,9 @@ With this first experience, of what is possible with GPT, lets create a first ch
 
 * Provide the required input parameters, e.g. 
 
-- a name for the new Copilot, e.g. `First DSAG Copilot`
+- a name for the new Copilot, e.g. `CSU Airlift Copilot`
 - Select a language, e.g. `German`
-- enter a URL to the root webiste that you want to query, e.g. `https://dsag.de/`
+- enter a URL to the root webiste that you want to query, e.g. `https://learn.microsoft.com/`
 ![Sign In](../media/quest2/08-EnterCopilot.png)
 
 * Then click on `Create`
