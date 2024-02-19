@@ -83,12 +83,12 @@ With this first experience, of what is possible with GPT, lets create a first ch
 * Click on `Skip`
 ![Sign In](../media/quest2/09-SkipIntro.png)
 
-* on the Left hand side you can already start testing the copilot. Enter a Question like: `What can you tell me about DSAG?`
+* on the Left hand side you can already start testing the copilot. Enter a Question like: `What can you tell me about SAP on Azure?`
 ![Sign In](../media/quest2/10-TestCopilot.png)
 
-You should see a result with references to the public site from DSAG. 
+You should see a result with references to the learn.microsoft.com. 
 
-* In order to better understand, what was happening, `switch on Tracing`, `Restart the session` and ask another question, e.g. `Wie kann ich Mitglied in der DSAG werden?`
+* In order to better understand, what was happening, `switch on Tracing`, `Restart the session` and ask another question, e.g. `What are the Microsoft storage recommendations for an SAP system?`
 ![Sign In](../media/quest2/11-EnableTracing.png)
 
 * On the right hand side, you can see that an `On Unkonwn Intent` trigger was used. Then the question was passed into the `Create generative answers` action and a result -- coming from a `public  website (1)` data source was used. 
@@ -97,7 +97,7 @@ You should see a result with references to the public site from DSAG.
 * Click on `Topics` to navigate to the `Topics` that are definied by default. 
 
 
-* Click on `Gruß / Welcome` to see the Trigger phrases, that start this specific flow:
+* Click on `Greetings` to see the Trigger phrases, that start this specific flow:
 ![Sign In](../media/quest2/13-Topics.png)
 
 * Give it a try and enter one of these phrases to see this Trigger being executed
@@ -105,17 +105,17 @@ You should see a result with references to the public site from DSAG.
 ![Sign In](../media/quest2/15-Triggers.png)
 
 
-* Notice that even if you enter another phrase (Guten Morgen / Guten Abend), the trigger is still executed:
+* Notice that even if you enter another phrase (Good Morning / Good Afternoon), the trigger is still executed:
 ![Sign In](../media/quest2/16-Trigger2.png)
 
-* However, when you enter something else (e.g. we are in Hamburg, so I would expect `Moin` or `Tach`) to work as well, we are redirected to the `On Unknown Intent` trigger. 
+* However, when you enter something else (e.g. we are in Munich, so I would expect `Servus` or `Griaßdi`) to work as well, we are redirected to the `On Unknown Intent` trigger. 
 ![Sign In](../media/quest2/17-MissingPhrase.png)
 
-* Click on `Topics`, and `Gruß / Welcome` to go back to the Greetings trigger. 
+* Click on `Topics`, and `Greetings` to go back to the Greetings trigger. 
 ![Sign In](../media/quest2/18-MissingPhrase2.png)
 
 
-* Click on the `Edit` link and add additional phrases, like `Moin`, `Tach`, 
+* Click on the `Edit` link and add additional phrases, like `Servus`, `Griaßdi`, 
 ![Sign In](../media/quest2/19-AddPhrase.png)
 
 * Click on `Save` again, `restart the converstion` and try again with a phrase that previously did not work. 
